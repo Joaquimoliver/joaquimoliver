@@ -13,7 +13,7 @@ Desenvolvedor apaixonado por construir soluções escaláveis e eficientes. Tenh
 - 🔭 Atualmente trabalhando em projetos com **TypeScript** e **Java**.
 - 🌱 Aprofundando conhecimentos em **Arquitetura de Microsserviços** e **Cloud Computing**.
 - 💬 Fale comigo sobre: Desenvolvimento Web, Python e Automação.
-- ⚡ Curiosidade: Gosto de resolver desafios de lógica e algoritmos.
+
 
 ---
 
